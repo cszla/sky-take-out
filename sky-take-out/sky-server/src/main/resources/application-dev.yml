@@ -6,3 +6,20 @@ sky:
     database: sky_take_out
     username: root
     password: root
+  alioss:
+    access-key-id: LTAI5tSbUmQagCoUxqDoVawQ
+    access-key-secret: wEupJ2aoBNuvq55zonohew9jeu2s9V
+    bucket-name: skytes
+    endpoint: oss-cn-beijing.aliyuncs.com
+  wechat:
+    appid: wx3152ccfc92caa2f4
+    secret: 41008d0265f85119874c448c667aea86
+  shop:
+    address: 江西省新余市新余学院
+  baidu:
+    ak:
+spring:
+  redis:
+    database: 0
+    port: 6379
+    host: localhost

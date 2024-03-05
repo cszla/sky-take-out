@@ -30,6 +30,7 @@
         <jjwt>0.9.1</jjwt>
         <jaxb-api>2.3.1</jaxb-api>
         <poi>3.16</poi>
+
     </properties>
     <dependencyManagement>
         <dependencies>
@@ -92,6 +93,8 @@
                 <artifactId>jjwt</artifactId>
                 <version>${jjwt}</version>
             </dependency>
+
+
 
             <dependency>
                 <groupId>com.aliyun.oss</groupId>
